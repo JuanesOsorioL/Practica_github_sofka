@@ -80,3 +80,9 @@ Merge made by the 'recursive' strategy.
 html/index.html | 1 +
 1 file changed, 1 insertion(+)
 create mode 100644 html/index.html
+
+al repositorio
+
+git remote add origin https://github.com/JuanesOsorioL/Practica_github_sofka.git
+git branch -M main
+git push -u origin main
