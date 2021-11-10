@@ -69,3 +69,14 @@ git merge prueba1
 Auto-merging index.html
 CONFLICT (content): Merge conflict in index.html
 Automatic merge failed; fix conflicts and then commit the result.
+
+\*git merge prueba2  
+Auto-merging index.html
+CONFLICT (content): Merge conflict in index.html
+Automatic merge failed; fix conflicts and then commit the result.
+
+\*git merge prueba3  
+Merge made by the 'recursive' strategy.
+html/index.html | 1 +
+1 file changed, 1 insertion(+)
+create mode 100644 html/index.html
